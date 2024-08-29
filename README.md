@@ -12,7 +12,7 @@ Algumas destas cores foram utilizadas para colorir barras presentes nos gráfico
 # FONTES
 | FONTES                        | URL                                                                         |
 |-------------------------------|-----------------------------------------------------------------------------|
-| The Rick and Morty API        | ['Documentação'](https://rickandmortyapi.com/documentation)                 |
-| Rick and Morty color palettes | ['Paleta de Cores'](https://nanx.me/ggsci/reference/pal_rickandmorty.html)  |
+| The Rick and Morty API        | [Documentação](https://rickandmortyapi.com/documentation)                 |
+| Rick and Morty color palettes | [Paleta de Cores](https://nanx.me/ggsci/reference/pal_rickandmorty.html)  |
 
  
